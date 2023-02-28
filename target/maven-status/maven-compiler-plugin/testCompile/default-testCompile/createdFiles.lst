@@ -1,0 +1,10 @@
+utilities\TableHandler.class
+steps\SmartBearSteps.class
+steps\pages\WebOrdersPage.class
+steps\pages\LogInPage.class
+utilities\ConfigReader.class
+runners\Runner.class
+utilities\Driver.class
+steps\Hook.class
+utilities\Waiter.class
+utilities\DropdownHandler.class
