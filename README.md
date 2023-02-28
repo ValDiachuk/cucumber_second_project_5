@@ -25,3 +25,4 @@ If runner class have a different tag, it will be updated with a given suit tag, 
 the scenarios that have the same tag. 
 Scenario steps will be executed with their linked implementation in the "steps" package. 
 After execution is done reports will be generated and stored under the target folder.
+![cucmber_second_project](https://user-images.githubusercontent.com/115370485/221976945-0261487c-693e-492d-ac74-cb3891e652d1.png)
