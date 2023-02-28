@@ -1,4 +1,4 @@
-For this project I created BDD Framework (Behavior Driven Development). 
+For this project I created BDD Framework. 
 I used Java as a programming language and Maven as a build tool.
 Maven comes with easy folder stracture that help keep all my classes organized. 
 Also Maven has pom.xml file, where I stored all plugins, goals, 
